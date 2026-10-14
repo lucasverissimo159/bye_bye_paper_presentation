@@ -4,9 +4,6 @@
 
 ## 🌐 English Version
 
-### 📌 Suggested Repository Description for GitHub
-> *Business pitch and presentation for **Bye Bye Paper**, a digital document management franchise focused on paperless transformation, high operational efficiency, and low-cost deployment.*
-
 ---
 
 ### 📖 About the Project
@@ -70,9 +67,6 @@
 ---
 
 ## 🇧🇷 Versão em Português
-
-### 📌 Sugestão de Descrição para o Repositório no GitHub
-> *Apresentação de negócios e modelo de franquia da **Bye Bye Paper**, focada em gestão eletrônica de documentos, eliminação de papel, baixo custo de implantação e eficiência operacional.*
 
 ---
 
